@@ -1,5 +1,7 @@
-# Contract Pro - use os dados abaixo para teste
+# Contract Pro - use os dados abaixo para logar e ver o app funcionando. 
+O envio de email pelo n8n não irá funcionar porque está conectatado com um n8n local. 
 
+Link: https://srvalle.github.io/contract-pro/
 Email: example@email.com
 Password: 123456
 
