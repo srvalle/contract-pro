@@ -1,7 +1,7 @@
 # Contract Pro
 
 ## use os dados abaixo para logar e ver o app funcionando. 
-O envio de email pelo n8n não irá funcionar porque está conectatado com um n8n local. 
+O envio de email pelo n8n não irá funcionar porque está conectatado com um n8n local. Para funcionar será preciso instalar o n8n localmente e configurar o fluxo de envio. 
 
 - Link: https://srvalle.github.io/contract-pro/
 - Email: example@email.com
