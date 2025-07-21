@@ -1,0 +1,36 @@
+export type Contract = {
+  id: string;
+  contract_number: string;
+  project_name: string;
+  client_name: string;
+  client_cpf: string;
+  client_email: string;
+  client_address: string;
+  provider_name: string;
+  provider_cpf: string;
+  provider_email: string;
+  provider_address: string;
+  graphic_design: boolean;
+  web_design: boolean;
+  branding: boolean;
+  social_media: boolean;
+  photography: boolean;
+  illustration: boolean;
+  web_development: boolean;
+  copywriting: boolean;
+  marketing: boolean;
+  others: string;
+  service_scope: string;
+  start_date: string;
+  delivery_date: string;
+  total_value: string;
+  payment_method: string;
+  revision_count: string;
+  court_city: string;
+  contract_date: string;
+  status: 'pending' | 'in_progress' | 'completed';
+  created_at: string;
+  user_id: string;
+  logo_url?: string;
+  // Adicione outros campos se necessário
+};
