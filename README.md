@@ -54,6 +54,3 @@ Acesse [http://localhost:5173](http://localhost:5173) no navegador.
 Este projeto é open source, sinta-se à vontade para usar e contribuir!
 
 ---
-
-> **Dica:**  
-> Substitua `SEU_USUARIO` pelo seu usuário do GitHub e adicione um screenshot do app para valorizar seu portfólio.
